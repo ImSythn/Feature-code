@@ -1,6 +1,6 @@
 ﻿# Feature-code
 
-- Exalerated Structures
+- Accelerated Structures
 	- Colition
 	- Pathfinding
 
